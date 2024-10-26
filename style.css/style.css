@@ -1,0 +1,17 @@
+.carrusel{
+    height: 400px; 
+    padding-top: 20px;
+    padding-bottom: 20px;   
+}
+.text-center{
+    margin-top: 20px;
+}
+.row{
+    padding-left: 20px;
+}
+@media (min-width: 1000px){
+    .carrusel{
+        height: 600px;
+    }
+
+}
